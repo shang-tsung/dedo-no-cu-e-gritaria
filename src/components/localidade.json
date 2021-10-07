@@ -1,0 +1,16 @@
+{
+    "localidade": {
+      "Parana": [
+        "londrina",
+        "Maringa"
+      ],
+      "Rio Grande do Sul": [
+        "Pelotas",
+        "Porto Alegre"
+      ],
+      "Santa Catarina": [
+        "Florianópolis",
+        "Joinville"
+      ]
+    }
+  }
